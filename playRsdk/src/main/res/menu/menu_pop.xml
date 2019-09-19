@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_1"
+        android:checkable="true"
+        android:title="1X" />
+
+    <item
+        android:id="@+id/menu_x1.5x"
+        android:title="1.5X" />
+
+    <item
+        android:id="@+id/menu_2x"
+        android:title="2X" />
+
+    <item
+        android:id="@+id/menu_0.5x"
+        android:title="0.5X" />
+
+</menu>

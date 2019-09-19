@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RYPlay.iml" filepath="$PROJECT_DIR$/RYPlay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_screen/lib_screen.iml" filepath="$PROJECT_DIR$/lib_screen/lib_screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/playRsdk/playRsdk.iml" filepath="$PROJECT_DIR$/playRsdk/playRsdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vrlib/vrlib.iml" filepath="$PROJECT_DIR$/vrlib/vrlib.iml" />
+    </modules>
+  </component>
+</project>

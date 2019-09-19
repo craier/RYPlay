@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--字体-->
+    <dimen name="text_size_micro">8sp</dimen>
+    <dimen name="text_size_mini">12sp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="text_size_normal">16sp</dimen>
+    <dimen name="text_size_medilum">18sp</dimen>
+    <dimen name="text_size_large">20sp</dimen>
+
+
+    <!--公共text_size-->
+    <dimen name="text_size_8sp">8sp</dimen>
+    <dimen name="text_size_9sp">9sp</dimen>
+    <dimen name="text_size_10sp">10sp</dimen>
+    <dimen name="text_size_11sp">11sp</dimen>
+    <dimen name="text_size_12sp">12sp</dimen>
+    <dimen name="text_size_13sp">13sp</dimen>
+    <dimen name="text_size_14sp">14sp</dimen>
+    <dimen name="text_size_15sp">15sp</dimen>
+    <dimen name="text_size_16sp">16sp</dimen>
+    <dimen name="text_size_17sp">17sp</dimen>
+    <dimen name="text_size_18sp">18sp</dimen>
+    <dimen name="text_size_19sp">19sp</dimen>
+    <dimen name="text_size_20sp">20sp</dimen>
+    <dimen name="text_size_22sp">22sp</dimen>
+    <dimen name="text_size_23sp">23sp</dimen>
+    <dimen name="text_size_24sp">24sp</dimen>
+    <dimen name="text_size_26sp">26sp</dimen>
+    <dimen name="text_size_28sp">28sp</dimen>
+    <dimen name="text_size_30sp">30sp</dimen>
+    <dimen name="text_size_34sp">34sp</dimen>
+    <dimen name="text_size_36sp">36sp</dimen>
+    <dimen name="text_size_170sp">170sp</dimen>
+
+    <!--公共margin-->
+    <dimen name="margin_1dp">1dp</dimen>
+    <dimen name="margin_2dp">2dp</dimen>
+    <dimen name="margin_3dp">3dp</dimen>
+    <dimen name="margin_4dp">4dp</dimen>
+    <dimen name="margin_6dp">6dp</dimen>
+    <dimen name="margin_8dp">8dp</dimen>
+    <dimen name="margin_9dp">9dp</dimen>
+    <dimen name="margin_10dp">10dp</dimen>
+    <dimen name="margin_11dp">11dp</dimen>
+    <dimen name="margin_12dp">12dp</dimen>
+    <dimen name="margin_13dp">13dp</dimen>
+    <dimen name="margin_14dp">14dp</dimen>
+    <dimen name="margin_15dp">15dp</dimen>
+    <dimen name="margin_16dp">16dp</dimen>
+    <dimen name="margin_18dp">18dp</dimen>
+    <dimen name="margin_20dp">20dp</dimen>
+    <dimen name="margin_22dp">22dp</dimen>
+    <dimen name="margin_24dp">24dp</dimen>
+    <dimen name="margin_25dp">25dp</dimen>
+    <dimen name="margin_26dp">26dp</dimen>
+    <dimen name="margin_27dp">27dp</dimen>
+    <dimen name="margin_28dp">28dp</dimen>
+    <dimen name="margin_30dp">30dp</dimen>
+    <dimen name="margin_34dp">34dp</dimen>
+    <dimen name="margin_35dp">35dp</dimen>
+    <dimen name="margin_37dp">37dp</dimen>
+    <dimen name="margin_38dp">38dp</dimen>
+    <dimen name="margin_40dp">40dp</dimen>
+    <dimen name="margin_44dp">44dp</dimen>
+    <dimen name="margin_46dp">46dp</dimen>
+    <dimen name="margin_48dp">48dp</dimen>
+    <dimen name="margin_49dp">49dp</dimen>
+    <dimen name="margin_50dp">50dp</dimen>
+    <dimen name="margin_53dp">53dp</dimen>
+    <dimen name="margin_55dp">55dp</dimen>
+    <dimen name="margin_60dp">60dp</dimen>
+    <dimen name="margin_64dp">64dp</dimen>
+    <dimen name="margin_66dp">66dp</dimen>
+    <dimen name="margin_70dp">70dp</dimen>
+    <dimen name="margin_74dp">74dp</dimen>
+    <dimen name="margin_76dp">76dp</dimen>
+    <dimen name="margin_80dp">80dp</dimen>
+    <dimen name="margin_83dp">83dp</dimen>
+    <dimen name="margin_84dp">84dp</dimen>
+    <dimen name="margin_87dp">87dp</dimen>
+    <dimen name="margin_88dp">88dp</dimen>
+    <dimen name="margin_90dp">90dp</dimen>
+    <dimen name="margin_94dp">94dp</dimen>
+    <dimen name="margin_96dp">96dp</dimen>
+    <dimen name="margin_100dp">100dp</dimen>
+    <dimen name="margin_110dp">110dp</dimen>
+    <dimen name="margin_112dp">112dp</dimen>
+    <dimen name="margin_114dp">114dp</dimen>
+    <dimen name="margin_120dp">120dp</dimen>
+    <dimen name="margin_130dp">130dp</dimen>
+    <dimen name="margin_133dp">133dp</dimen>
+    <dimen name="margin_135dp">135dp</dimen>
+    <dimen name="margin_140dp">140dp</dimen>
+    <dimen name="margin_142dp">142dp</dimen>
+    <dimen name="margin_147dp">147dp</dimen>
+    <dimen name="margin_150dp">150dp</dimen>
+    <dimen name="margin_200dp">200dp</dimen>
+    <dimen name="margin_212dp">212dp</dimen>
+    <dimen name="margin_233dp">233dp</dimen>
+    <dimen name="margin_249dp">249dp</dimen>
+    <dimen name="margin_273dp">273dp</dimen>
+    <dimen name="margin_277dp">277dp</dimen>
+    <dimen name="margin_287dp">287dp</dimen>
+    <dimen name="margin_293dp">293dp</dimen>
+    <dimen name="margin_317dp">317dp</dimen>
+    <dimen name="margin_331dp">331dp</dimen>
+    <dimen name="margin_428dp">428dp</dimen>
+    <dimen name="margin_448dp">448dp</dimen>
+
+    <!--公共padding-->
+    <dimen name="padding_2dp">2dp</dimen>
+    <dimen name="padding_4dp">4dp</dimen>
+    <dimen name="padding_6dp">6dp</dimen>
+    <dimen name="padding_8dp">8dp</dimen>
+    <dimen name="padding_9dp">9dp</dimen>
+    <dimen name="padding_10dp">10dp</dimen>
+    <dimen name="padding_12dp">12dp</dimen>
+    <dimen name="padding_14dp">14dp</dimen>
+    <dimen name="padding_15dp">15dp</dimen>
+    <dimen name="padding_16dp">16dp</dimen>
+    <dimen name="padding_18dp">18dp</dimen>
+    <dimen name="padding_20dp">20dp</dimen>
+    <dimen name="padding_25dp">25dp</dimen>
+    <dimen name="padding_30dp">30dp</dimen>
+    <dimen name="padding_40dp">40dp</dimen>
+    <dimen name="padding_44dp">44dp</dimen>
+    <dimen name="padding_64dp">64dp</dimen>
+    <dimen name="padding_66dp">66dp</dimen>
+    <dimen name="padding_75dp">75dp</dimen>
+
+    <!--边距距-->
+    <dimen name="padding_normal">@dimen/padding_12dp</dimen>
+    <dimen name="margin_normal">@dimen/margin_12dp</dimen>
+    <dimen name="padding_normal_half">@dimen/padding_6dp</dimen>
+    <dimen name="margin_normal_half">@dimen/margin_6dp</dimen>
+    <dimen name="padding_middle">@dimen/padding_16dp</dimen>
+    <dimen name="margin_middle">@dimen/margin_16dp</dimen>
+    <dimen name="padding_middle_half">@dimen/padding_8dp</dimen>
+    <dimen name="margin_middle_half">@dimen/margin_8dp</dimen>
+    <dimen name="padding_large">@dimen/padding_20dp</dimen>
+    <dimen name="margin_large">@dimen/margin_20dp</dimen>
+
+    <!--间距-->
+    <dimen name="padding_normal_min">8dp</dimen>
+    <dimen name="margin_normal_min">8dp</dimen>
+    <dimen name="padding_normal_min_half">4dp</dimen>
+    <dimen name="margin_normal_min_half">4dp</dimen>
+
+
+    <!--大小-->
+    <!--h1-->
+    <dimen name="h1">9sp</dimen>
+    <!--h2-->
+    <dimen name="h2">10sp</dimen>
+    <!--h3-->
+    <dimen name="h3">11sp</dimen>
+    <!--h4-->
+    <dimen name="h4">12sp</dimen>
+    <!--h5-->
+    <dimen name="h5">13sp</dimen>
+    <!--h6-->
+    <dimen name="h6">14sp</dimen>
+    <!--h7-->
+    <dimen name="h7">15sp</dimen>
+    <!--h8-->
+    <dimen name="h8">16sp</dimen>
+    <!--h9-->
+    <dimen name="h9">17sp</dimen>
+    <!--h10-->
+    <dimen name="h10">18sp</dimen>
+    <!--h11-->
+    <dimen name="h11">19sp</dimen>
+
+    <dimen name="h12">20sp</dimen>
+
+</resources>
